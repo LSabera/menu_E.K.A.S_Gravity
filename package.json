@@ -1,5 +1,5 @@
 {
-  "name": "com.E.K.A.S_gravity.menu",
+  "name": "com.ekasgravity.menu",
   "version": "1.0.0",
   "displayName": "Menu",
   "description": "Pacote contendo o menu principal do jogo e scripts de pausa e mudança de cena.",
