@@ -1,0 +1,11 @@
+{
+  "name": "com.E.K.A.S_gravity.menu",
+  "version": "1.0.0",
+  "displayName": "Menu",
+  "description": "Pacote contendo o menu principal do jogo e scripts de pausa e mudança de cena.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Luiz Monteiro Seabra",
+    "email": "luizseabra1@hotmail.com"
+  }
+}
