@@ -98,4 +98,4 @@ InitTestScene*.unity*
 # --- Added by request ---
 LICENSE
 README.md
-Runtime.meta
+package.json
